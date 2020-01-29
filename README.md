@@ -10,4 +10,4 @@ This is a simple script for downloading photos from instagram using available ph
 ./insta.py -u username
 ```
 
-All photos are put in the `downloaded_username` folder.
+All photos are put in the `downloads_username` folder.
